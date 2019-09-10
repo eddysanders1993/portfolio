@@ -1,0 +1,97 @@
+body{
+font-family: 'Montserrat', sans-serif;
+
+}
+header{
+
+  margin:-20px;
+}
+h1{
+  border-style:solid;
+  text-align:center;
+  position: relative;
+}
+
+nav{
+  border-style:solid;
+  border-color:black;
+
+}
+
+nav{
+list-style-type: none;
+text-align:center;
+position: relative;
+right:20px;
+border-style:solid;
+}
+
+.nav{
+display:inline;
+
+}
+
+
+
+h2{
+  border-style:solid;
+
+
+  text-align:center;
+}
+
+input{
+display:block;
+  border-style:solid;
+  border-color:black;
+  margin:auto;
+}
+
+form{
+  border-style:solid;
+}
+
+#about{
+  display: list-item;
+  list-style-type: circle;
+
+}
+
+#email{
+  position: relative;
+  margin-right: 28.14%;
+  width:24%;
+
+
+ }
+
+#name{
+  position: relative;
+  top: 21.3px;
+  margin-left: 26.5%;
+  width: 20%;
+}
+
+textarea{
+
+  position: relative;
+
+  margin:15px;
+  margin-left: 26.5%;
+  width: 45%;
+
+}
+
+#submit {
+  position: relative;
+  margin:0px 0 15px 0;
+  margin-left: 26.5%;
+}
+
+.name{
+  padding:50px 200px 50px 200px;
+}
+
+ul {
+  text-align:center;
+}
